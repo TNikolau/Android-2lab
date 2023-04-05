@@ -8,4 +8,7 @@
     <string name="round_up_tip">Round up tip?</string>
     <string name="calculate">Calculate</string>
     <string name="tip_amount">Tip Amount</string>
+    <string name="euro">Euro</string>
+    <string name="euro_to_grivna">euro to grivna</string>
+    <string name="exchange_rate">exchange rate: </string>
 </resources>
