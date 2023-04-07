@@ -1,15 +1,11 @@
 <resources>
-    <string name="app_name">Tip time</string>
-    <string name="cost_of_service">Cost of Service</string>
-    <string name="how_was_the_service">How was the service?</string>
-    <string name="amazing_20">Amazing (20%)</string>
-    <string name="good_18">Good (18%)</string>
-    <string name="okay_15">Okay (15%)</string>
-    <string name="round_up_tip">Round up tip?</string>
+    <string name="app_name">Tip Time</string>
+    <string name="I_have_a_hryvnia">I have a hryvnia : </string>
+    <string name="exchange_rate">exchange rate : </string>
+    <string name="option_zero_zero_two_four_four">0.0244</string>
+    <string name="option_zero_zero_two_five">0.025</string>
     <string name="calculate">Calculate</string>
-    <string name="tip_amount">Tip Amount</string>
-    <string name="euro">Euro</string>
-    <string name="euro_to_grivna">euro to grivna</string>
-    <string name="exchange_rate">exchange rate: </string>
-    <string name="_40_27">40.27</string>
+    <string name="result">Result</string>
 </resources>
+
+    Назад
